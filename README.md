@@ -85,6 +85,10 @@ cd video
 ```
 python img2video.py -i output
 ```
+17. If you want to use only Yolo, you can repeat the process from step 12 to 14. In the 15 you have to use:
+```
+python yolo_without_seqnms.py
+```
 ## Reference
 
 This project copies lots of code from [darknet](https://github.com/pjreddie/darknet) , [Seq-NMS](https://github.com/lrghust/Seq-NMS) and  [models](https://github.com/tensorflow/models).

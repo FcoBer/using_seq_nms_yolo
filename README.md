@@ -78,7 +78,7 @@ cd ..
 ```
 python yolo_seqnms.py
 ```
-16. Make the video with the Yolo algorithm applyied (the video result is in `video/output`):
+16. Make the video with the Yolo algorithm applyied (the video result is in `video`):
 ```
 cd video
 ```

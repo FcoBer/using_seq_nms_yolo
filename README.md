@@ -1,4 +1,4 @@
-# Seq_nms_YOLO
+# Using seq_nms_yolo
 
 #### Membres: Yunyun SUN, Yutong YAN, Sixiang XU, Heng ZHANG
 

@@ -17,7 +17,7 @@ git clone https://github.com/FcoBer/using_seq_nms_yolo.git
 ```
 2. Access into the project: 
 ```
-cd seq_nms_yolo_v2
+cd using_seq_nms_yolo
 ```
 3. Make your project (this step will return some warnings):
 ```
